@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = efaure33@wanadoo.fr
+	name = elodie faure
